@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975485948061",
+    "project_id": "viabilidade-tecnica-trash",
+    "storage_bucket": "viabilidade-tecnica-trash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975485948061:android:738247bdea984c05f84474",
+        "android_client_info": {
+          "package_name": "com.example.teste_tela_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0ji9nio_fv7tTiKDU3Tulkzd_hdOUjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
