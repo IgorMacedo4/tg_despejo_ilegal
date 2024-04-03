@@ -1,0 +1,2 @@
+0 Com infração
+1 Sem Infração
